@@ -99,9 +99,9 @@ PRODUCT_PACKAGES += \
     make_ext4fs
 
 # FM
-PRODUCT_PACKAGES += \
-    FMRadio \
-    libfmjni
+#PRODUCT_PACKAGES += \
+#    FMRadio \
+#    libfmjni
 
 # IO Scheduler
 PRODUCT_PROPERTY_OVERRIDES += \
