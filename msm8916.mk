@@ -132,8 +132,7 @@ PRODUCT_PACKAGES += \
     libOmxQcelp13Enc \
     libOmxVdec \
     libOmxVenc \
-    libstagefrighthw \
-    qcmediaplayer
+    libstagefrighthw 
 
 ifneq ($(QCPATH),)
 PRODUCT_PACKAGES += libOmxVdecHevc
