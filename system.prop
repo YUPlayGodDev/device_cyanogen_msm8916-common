@@ -68,3 +68,6 @@ persist.data.qmi.adb_logmask=0
 
 # Time
 persist.timed.enable=true
+
+# WiFi
+ro.disableWifiApFirmwareReload=true
